@@ -1,0 +1,3 @@
+/home/phuongnam/Desktop/VT_Intern/build/CMakeFiles/program.dir
+/home/phuongnam/Desktop/VT_Intern/build/CMakeFiles/edit_cache.dir
+/home/phuongnam/Desktop/VT_Intern/build/CMakeFiles/rebuild_cache.dir
