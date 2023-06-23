@@ -49,3 +49,13 @@ Khi khởi tạo 1 biến nó lưu gái trị vào cả flash và RAM khi tắt 
 Sử dụng làm 1 đồng hồ chuẩn sử dụng thạch anh nội để làm nên một độ định thời gian chuẩn 
 ![Alt text](image-8.png)
 chia cho 32.768 để được tần số là 1HZ
+
+
+## Bootloader
+Có thể boot bằng SD card flah ngoài thông qua các giao thức SPI SDMMC .,..
+![Alt text](image-9.png)
+![Alt text](image-10.png)
+![Alt text](image-11.png)
+![Alt text](image-12.png)
+![Alt text](image-13.png)
+![Alt text](image-14.png)
